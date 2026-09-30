@@ -1,0 +1,38 @@
+# --- secrets -----------------------------------------------------------------
+.env
+*.env
+
+# --- python ------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# --- large or regenerable data ------------------------------------------------
+# data/ holds the structured-fields catalog, which IS tracked (see README).
+# Catalogs carrying verbatim Manual text must never be committed: that prose is
+# copyrighted by Missouri Botanical Garden Press.
+data/maps/
+data/gbif_cache/
+data/gbif_snapshot/
+data/catalog/
+data/fichas.sqlite
+data/fichas.pre_trackB*.sqlite
+data/*full*.sqlite
+mpcr_rag/data/
+
+# Geo inputs are third-party downloads, not ours to redistribute (see README).
+data_raw/
+*.tif
+*.shp
+*.shx
+*.dbf
+*.prj
+
+# --- editors / OS -------------------------------------------------------------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

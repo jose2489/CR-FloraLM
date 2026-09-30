@@ -1,0 +1,396 @@
+species,accepted,synonym,family,n,manual,manual_ext,in_core,in_ext,vmatch,median,q05,q95,median_in,core_overlap
+Agave seemanniana,Agave seemanniana,False,Agavaceae_Anthericaceae,21,100-300,100-300,0.23809523809523808,0.23809523809523808,1.0,155.0,13.0,380.0,True,True
+Echeandia skinneri,Echeandia skinneri,False,Agavaceae_Anthericaceae,9,1200-2000,1200-2000,0.6666666666666666,0.6666666666666666,1.0,1675.0,386.8,2056.6,True,True
+Sagittaria rhombifolia,Sagittaria rhombifolia,False,Agavaceae_Anthericaceae,4,350-400,350-400,0.75,0.75,1.0,379.0,334.9,395.9,True,True
+Anthurium burgeri,Anthurium burgeri,False,Araceae,7,1000-1150,1000-1150,0.14285714285714285,0.14285714285714285,1.0,834.0,645.2,1241.6,False,True
+Anthurium dwyeri,Anthurium dwyeri,False,Araceae,5,500-800,100-800,0.8,1.0,1.0,503.0,430.2,737.0,True,True
+Anthurium lentii,Anthurium lentii,False,Araceae,26,300-1650,300-1650,0.7692307692307693,0.7692307692307693,0.9615384615384616,1338.5,871.25,2411.25,True,True
+Anthurium paludosum,Anthurium paludosum,False,Araceae,14,0-50,0-50,0.6428571428571429,0.6428571428571429,1.0,19.5,8.3,929.3499999999993,True,True
+Anthurium spectabile,Anthurium spectabile,False,Araceae,35,300-800,300-800,0.5714285714285714,0.5714285714285714,0.8571428571428571,641.0,231.40000000000003,2184.199999999999,True,True
+Chlorospatha croatiana,Chlorospatha croatiana,False,Araceae,9,250-1500,250-1500,0.8888888888888888,0.8888888888888888,0.8888888888888888,761.0,238.2,1031.2,True,True
+Monstera adansonii,Monstera adansonii,False,Araceae,493,0-1200,0-1700,0.8539553752535497,0.9797160243407708,1.0,346.0,13.0,1461.6,True,True
+Monstera pinnatipartita,Monstera pinnatipartita,False,Araceae,102,0-500,0-800,0.8921568627450981,0.9411764705882353,0.979381443298969,112.0,13.0,887.8499999999981,True,True
+Philodendron bakeri,Philodendron bakeri,False,Araceae,35,0-1000,0-1000,0.8,0.8,1.0,567.0,55.7,1271.4999999999998,True,True
+Philodendron grayumii,Philodendron grayumii,False,Araceae,13,0-50,0-50,0.7692307692307693,0.7692307692307693,1.0,27.0,13.0,921.599999999997,True,True
+Philodendron rojasianum,Philodendron rojasianum,False,Araceae,4,1450-1450,1450-1450,0.0,0.0,1.0,1311.5,1070.45,1329.0,False,False
+Rhodospatha moritziana,Rhodospatha moritziana,False,Araceae,14,100-400,100-400,0.7857142857142857,0.7857142857142857,1.0,272.0,214.0,680.0999999999997,True,True
+Stenospermation robustum,Stenospermation robustum,False,Araceae,5,1450-1500,1450-1500,0.0,0.0,,1089.0,500.8,1325.6,False,False
+Urospatha grandis,Urospatha grandis,False,Araceae,50,0-150,0-900,0.94,0.98,1.0,26.5,9.45,150.29999999999998,True,True
+Bactris ana-juliae,Bactris ana-juliae,False,Arecaceae,5,900-1100,900-1100,0.4,0.4,1.0,832.0,716.0,1049.4,False,True
+Bactris polystachya,Bactris polystachya,False,Arecaceae,10,0-250,0-250,0.5,0.5,1.0,201.0,39.5,567.1999999999998,True,True
+Chamaedorea incrustata,Chamaedorea incrustata,False,Arecaceae,11,1500-1800,1500-1800,0.5454545454545454,0.5454545454545454,1.0,1617.0,1294.0,1858.5,True,True
+Chamaedorea scheryi,Chamaedorea scheryi,False,Arecaceae,60,600-2050,600-2050,0.9333333333333333,0.9333333333333333,1.0,1472.0,636.6,1989.05,True,True
+Geonoma brenesii,Geonoma brenesii,False,Arecaceae,16,1000-1600,1000-1600,0.5625,0.5625,0.3125,1039.5,259.25,1643.0,True,True
+Oenocarpus mapora,Oenocarpus mapora,False,Arecaceae,19,0-350,0-350,0.7894736842105263,0.7894736842105263,0.9473684210526315,174.0,33.1,483.7999999999999,True,True
+Welfia regia,Welfia regia,False,Arecaceae,131,50-750,50-750,0.9312977099236641,0.9312977099236641,1.0,140.0,52.5,567.5,True,True
+Billbergia macrolepis,Billbergia macrolepis,False,Asparagaceae_Bromeliaceae,7,350-400,350-400,0.0,0.0,1.0,482.0,301.0,575.8,False,True
+Guzmania blassii,Guzmania blassii,False,Asparagaceae_Bromeliaceae,21,700-1700,700-1700,0.8095238095238095,0.8095238095238095,1.0,1098.0,794.0,3053.0,True,True
+Guzmania obtusiloba,Guzmania pearcei,True,Asparagaceae_Bromeliaceae,29,1000-1800,1000-1800,1.0,1.0,0.896551724137931,1402.0,1155.8,1673.9999999999998,True,True
+Pitcairnia arcuata,Pitcairnia arcuata,False,Asparagaceae_Bromeliaceae,39,200-1600,200-1600,0.9230769230769231,0.9230769230769231,1.0,697.0,304.70000000000005,1311.0,True,True
+Pitcairnia wendlandii,Pitcairnia wendlandii,False,Asparagaceae_Bromeliaceae,40,500-1600,100-1600,0.85,0.875,0.925,1032.0,574.5500000000001,1730.9499999999998,True,True
+Tillandsia caput-medusae,Tillandsia caput-medusae,False,Asparagaceae_Bromeliaceae,132,100-1000,100-1000,0.5454545454545454,0.5454545454545454,0.9772727272727273,763.0,65.05000000000001,1219.0,True,True
+Tillandsia punctulata,Tillandsia punctulata,False,Asparagaceae_Bromeliaceae,162,1000-2400,650-2400,0.8827160493827161,0.9506172839506173,1.0,1763.0,851.25,2288.95,True,True
+Werauhia ampla,Werauhia ampla,False,Asparagaceae_Bromeliaceae,26,1000-2450,1000-2450,0.9615384615384616,0.9615384615384616,1.0,1796.5,1091.0,2236.25,True,True
+Werauhia greenbergii,Werauhia patzeltii,True,Asparagaceae_Bromeliaceae,35,650-1500,650-1500,0.45714285714285713,0.45714285714285713,1.0,1403.0,476.2,1658.0,True,True
+Werauhia moralesii,Werauhia moralesii,False,Asparagaceae_Bromeliaceae,4,800-1000,800-1000,0.75,0.75,1.0,870.5,749.25,915.25,True,True
+Werauhia stenophylla,Werauhia stenophylla,False,Asparagaceae_Bromeliaceae,5,900-1700,900-1700,0.8,0.8,0.8,1289.0,586.8,1486.2,True,True
+Apteria aphylla,Apteria aphylla,False,Burmanniaceae_Cyclanthaceae,65,0-1500,0-1500,0.9846153846153847,0.9846153846153847,1.0,323.0,20.0,1208.0,True,True
+Asplundia sanctae-ritae,Asplundia sanctae-ritae,False,Burmanniaceae_Cyclanthaceae,37,800-2000,800-2000,0.8918918918918919,0.8918918918918919,1.0,1283.0,497.6,1775.0,True,True
+Chorigyne ensiformis,Chorigyne ensiformis,False,Burmanniaceae_Cyclanthaceae,34,600-1800,600-1800,0.9117647058823529,0.9117647058823529,0.7647058823529411,1113.0,689.6,1691.5,True,True
+Costus laevis,Costus laevis,False,Burmanniaceae_Cyclanthaceae,275,0-900,0-900,0.8145454545454546,0.8145454545454546,1.0,339.0,26.700000000000003,1147.9,True,True
+Costus woodsonii,Costus woodsonii,False,Burmanniaceae_Cyclanthaceae,69,0-50,0-50,0.7391304347826086,0.7391304347826086,,16.0,4.0,1241.3999999999974,True,True
+Floscopa robusta,Floscopa robusta,False,Burmanniaceae_Cyclanthaceae,145,0-700,0-1050,0.9517241379310345,0.9793103448275862,1.0,207.0,18.4,696.0,True,True
+Sphaeradenia chiriquensis,Sphaeradenia chiriquensis,False,Burmanniaceae_Cyclanthaceae,5,2300-2500,2300-2500,0.8,0.8,0.8,2449.0,2433.0,2504.0,True,True
+Tinantia leiocalyx,Tinantia leiocalyx,False,Burmanniaceae_Cyclanthaceae,14,0-900,0-900,1.0,1.0,1.0,286.0,39.3,789.45,True,True
+Tripogandra purpurascens,Callisia purpurascens,True,Burmanniaceae_Cyclanthaceae,24,900-2900,900-2900,0.9583333333333334,0.9583333333333334,1.0,1503.0,1052.0,2397.399999999999,True,True
+Carex donnell-smithii,Carex donnell-smithii,False,Cymodoceaceae_Cyperaceae,86,1400-3700,1400-3700,0.9418604651162791,0.9418604651162791,0.7411764705882353,2708.5,1328.5,3350.25,True,True
+Cyperus canus,Cyperus canus,False,Cymodoceaceae_Cyperaceae,10,0-800,0-800,1.0,1.0,1.0,244.0,43.45,766.9999999999999,True,True
+Cyperus laxus,Cyperus laxus,False,Cymodoceaceae_Cyperaceae,128,0-700,0-1000,0.8515625,0.921875,1.0,111.5,13.0,1043.4499999999998,True,True
+Cyperus tabina,Cyperus tabina,False,Cymodoceaceae_Cyperaceae,22,1400-2100,1400-2100,0.8636363636363636,0.8636363636363636,1.0,1788.0,1437.2,2198.4,True,True
+Eleocharis geniculata,Eleocharis geniculata,False,Cymodoceaceae_Cyperaceae,44,0-1600,0-1600,0.9545454545454546,0.9545454545454546,1.0,152.0,17.45,1064.3500000000008,True,True
+Fimbristylis dichotoma,Fimbristylis dichotoma,False,Cymodoceaceae_Cyperaceae,188,0-1600,0-1600,0.9627659574468085,0.9627659574468085,1.0,269.0,16.0,1485.9,True,True
+Lipocarpha salzmanniana,Cyperus salzmannianus,True,Cymodoceaceae_Cyperaceae,4,0-200,0-200,0.75,0.75,1.0,51.0,7.1000000000000005,237.69999999999993,True,True
+Rhynchospora carrillensis,Rhynchospora carrillensis,False,Cymodoceaceae_Cyperaceae,2,1100-1500,1100-1500,0.0,0.0,1.0,804.0,732.0,876.0,False,False
+Rhynchospora holoschoenoides,Rhynchospora holoschoenoides,False,Cymodoceaceae_Cyperaceae,50,0-850,0-850,1.0,1.0,1.0,271.0,35.9,440.9999999999999,True,True
+Rhynchospora talamancensis,Rhynchospora talamancensis,False,Cymodoceaceae_Cyperaceae,7,3000-3300,3000-3300,0.7142857142857143,0.7142857142857143,0.5,3048.0,2777.4,3169.1,True,True
+Scleria eggersiana,Scleria eggersiana,False,Cymodoceaceae_Cyperaceae,13,0-50,0-50,0.7692307692307693,0.7692307692307693,1.0,45.0,5.6,187.39999999999978,True,True
+Scleria vaginata,Scleria vaginata,False,Cymodoceaceae_Cyperaceae,0,,,,,,,,,,
+Dioscorea cymosula,Dioscorea cymosula,False,Dioscoreaceae_Juncaceae,9,100-800,100-800,0.3333333333333333,0.3333333333333333,1.0,196.0,77.0,966.5999999999999,True,True
+Dioscorea urophylla,Dioscorea urophylla,False,Dioscoreaceae_Juncaceae,35,0-350,0-350,0.9714285714285714,0.9714285714285714,1.0,61.0,20.900000000000002,286.3,True,True
+Heliconia mariae,Heliconia mariae,False,Dioscoreaceae_Juncaceae,228,0-500,0-500,0.9736842105263158,0.9736842105263158,1.0,19.0,16.700000000000003,168.64999999999952,True,True
+Luzula vulcanica,Luzula vulcanica,False,Dioscoreaceae_Juncaceae,1,3750-3800,3750-3800,0.0,0.0,1.0,3608.0,3608.0,3608.0,False,False
+Sisyrinchium tinctorium,Sisyrinchium tinctorium,False,Dioscoreaceae_Juncaceae,86,1200-3300,1200-3300,0.9302325581395349,0.9302325581395349,1.0,2167.0,1308.25,3214.25,True,True
+Molinadendron guatemalense,Molinadendron guatemalense,False,Haloragaceae,39,1000-2000,1000-2000,0.7435897435897436,0.7435897435897436,1.0,1715.0,973.5,2102.0,True,True
+Citronella costaricensis,Citronella costaricensis,False,Hypericaceae,76,1100-2200,650-2500,0.8421052631578947,0.9736842105263158,1.0,1723.5,1116.25,2251.0,True,True
+Oreomunnea mexicana,Oreomunnea mexicana,False,Hypericaceae,27,450-1600,450-1600,0.7407407407407407,0.7407407407407407,1.0,1454.0,708.9,2085.1,True,True
+Hyptis pectinata,Mesosphaerum pectinatum,True,Lamiaceae,74,0-1850,0-1850,1.0,1.0,1.0,808.5,44.45,1566.6999999999998,True,True
+Salvia comayaguana,Salvia comayaguana,False,Lamiaceae,18,700-1950,700-1950,0.8333333333333334,0.8333333333333334,1.0,1525.0,834.45,1955.0,True,True
+Scutellaria glabra,Scutellaria glabra,False,Lamiaceae,37,550-1650,550-1650,0.8648648648648649,0.8648648648648649,1.0,1133.0,581.4,1669.6,True,True
+Caryodaphnopsis burgeri,Caryodaphnopsis burgeri,False,Lauraceae,43,0-600,0-600,0.9069767441860465,0.9069767441860465,1.0,239.0,58.8,829.0999999999999,True,True
+Eschweilera hondurensis,Eschweilera hondurensis,False,Lauraceae,21,300-600,300-600,0.8095238095238095,0.8095238095238095,1.0,499.0,186.0,567.0,True,True
+Licaria sarapiquensis,Licaria sarapiquensis,False,Lauraceae,22,0-300,0-300,0.7727272727272727,0.7727272727272727,0.7727272727272727,121.0,38.7,496.7499999999999,True,True
+Nectandra salicina,Damburneya salicina,True,Lauraceae,118,600-1600,600-1600,0.7711864406779662,0.7711864406779662,1.0,1034.0,486.30000000000007,1702.6499999999996,True,True
+Ocotea guatemalensis,Ocotea guatemalensis,False,Lauraceae,11,1350-1700,1350-2200,0.36363636363636365,0.8181818181818182,1.0,1728.0,1058.0,2306.5,True,True
+Ocotea morae,Mespilodaphne morae,True,Lauraceae,12,50-900,50-900,0.5,0.5,0.8333333333333334,657.0,41.0,1206.0,True,True
+Persea caerulea,Persea caerulea,False,Lauraceae,89,300-1850,50-1850,0.9325842696629213,0.9438202247191011,1.0,1241.0,676.0,1822.7999999999995,True,True
+Pleurothyrium palmanum,Pleurothyrium palmanum,False,Lauraceae,52,500-1800,500-1800,0.9230769230769231,0.9230769230769231,1.0,1447.0,657.0,1787.0,True,True
+Calathea gloriana,Goeppertia gloriana,True,Lemnaceae_Musaceae,10,100-150,100-150,0.2,0.2,0.9,67.5,38.25,219.34999999999977,False,True
+Calathea nitidifolia,Goeppertia nitidifolia,True,Lemnaceae_Musaceae,9,0-400,0-400,1.0,1.0,1.0,234.0,78.8,375.2,True,True
+Hydrocleys parviflora,Hydrocleys parviflora,False,Lemnaceae_Musaceae,6,0-300,0-300,1.0,1.0,1.0,269.5,37.5,283.75,True,True
+Spirodela intermedia,Spirodela punctata,True,Lemnaceae_Musaceae,10,0-50,0-50,0.5,0.5,1.0,301.0,10.7,1559.4499999999996,False,True
+Utricularia amethystina,Utricularia amethystina,False,Lennoaceae,12,1000-1500,1000-1500,0.5833333333333334,0.5833333333333334,0.8333333333333334,1480.0,652.8,1712.6,True,True
+Oryctanthus cordifolius,Oryctanthus cordifolius,False,Loganiaceae,60,0-700,0-700,0.9166666666666666,0.9166666666666666,1.0,155.5,16.0,717.6499999999999,True,True
+Psittacanthus schiedeanus,Psittacanthus schiedeanus,False,Loganiaceae,80,1100-3300,350-3300,0.925,0.9875,1.0,2427.5,899.95,3263.0,True,True
+Struthanthus quercicola,Struthanthus quercicola,False,Loganiaceae,234,1000-3000,450-3200,0.8888888888888888,0.9615384615384616,1.0,1762.0,753.9,2898.75,True,True
+Cuphea epilobiifolia,Cuphea epilobiifolia,False,Lythraceae,161,50-1200,50-1700,0.9192546583850931,0.9813664596273292,1.0,585.0,95.0,1343.0,True,True
+Abutilon divaricatum,Abutilon divaricatum,False,Malpighiaceae,6,850-1400,850-1400,0.6666666666666666,0.6666666666666666,1.0,1249.0,1064.0,1841.0,True,True
+Banisteriopsis lyrata,Banisteriopsis lyrata,False,Malpighiaceae,3,200-300,200-300,0.3333333333333333,0.3333333333333333,1.0,919.0,281.8,919.0,False,True
+Bunchosia ternata,Bunchosia ternata,False,Malpighiaceae,38,1100-2000,1100-2000,0.8157894736842105,0.8157894736842105,0.7631578947368421,1676.5,1143.2,2038.3999999999996,True,True
+Herissantia crispa,Herissantia crispa,False,Malpighiaceae,47,0-200,0-200,0.8936170212765957,0.8936170212765957,1.0,65.0,14.0,284.5,True,True
+Hibiscus indicus,Hibiscus indicus,False,Malpighiaceae,10,0-800,0-800,0.9,0.9,1.0,99.0,6.0,660.1999999999996,True,True
+Lophanthera hammelii,Andersoniodoxa hammelii,True,Malpighiaceae,52,0-350,0-350,0.9230769230769231,0.9230769230769231,1.0,62.5,13.55,366.0499999999999,True,True
+Malvaviscus palmanus,Malvaviscus palmanus,False,Malpighiaceae,95,550-1900,550-1900,0.8105263157894737,0.8105263157894737,1.0,1206.0,354.40000000000003,1969.3999999999996,True,True
+Stigmaphyllon retusum,Stigmaphyllon retusum,False,Malpighiaceae,29,0-700,0-700,0.9655172413793104,0.9655172413793104,0.5517241379310345,382.0,24.0,627.8,True,True
+Pavonia corymbosa,Pavonia corymbosa,False,Malvaceae,4,0-600,0-600,1.0,1.0,1.0,23.5,19.6,51.19999999999999,True,True
+Sida barclayi,Sida barclayi,False,Malvaceae,9,50-200,50-200,0.6666666666666666,0.6666666666666666,0.8888888888888888,79.0,58.6,1131.1999999999994,True,True
+Talipariti tiliaceum,Talipariti tiliaceum,False,Malvaceae,167,0-100,0-1200,0.8982035928143712,0.9760479041916168,1.0,19.0,6.0,695.0999999999933,True,True
+Marcgravia nervosa,Marcgravia nervosa,False,Marcgraviaceae,63,100-1200,100-1200,0.8253968253968254,0.8253968253968254,1.0,458.0,43.3,776.9,True,True
+Schwartzia tarrazuensis,Schwartzia tarrazuensis,False,Marcgraviaceae,12,900-1400,900-1400,0.6666666666666666,0.6666666666666666,1.0,1170.0,598.05,1336.0,True,True
+Axinaea costaricensis,Axinaea costaricensis,False,Melastomataceae,83,1500-2500,1500-2500,0.7469879518072289,0.7469879518072289,1.0,2143.0,1248.7,2651.2,True,True
+Blakea tapantiana,Blakea tapantiana,False,Melastomataceae,37,1150-1600,1150-1600,0.6486486486486487,0.6486486486486487,1.0,1434.0,1038.2,1721.0,True,True
+Clidemia ciliata,Miconia domociliata,True,Melastomataceae,81,500-1600,500-1600,0.9629629629629629,0.9629629629629629,1.0,1287.0,704.0,1590.0,True,True
+Clidemia gracilis,Miconia pseudoalternifolia,True,Melastomataceae,42,0-550,0-750,0.8571428571428571,0.9523809523809523,1.0,210.0,26.0,696.95,True,True
+Clidemia reitziana,Miconia reitziana,True,Melastomataceae,117,0-850,0-1250,0.8547008547008547,0.9829059829059829,1.0,363.0,30.800000000000004,1036.9999999999993,True,True
+Conostegia bracteata,Miconia conobracteata,True,Melastomataceae,91,0-950,0-950,0.945054945054945,0.945054945054945,1.0,218.0,34.0,928.0,True,True
+Conostegia setosa,Miconia conosetosa,True,Melastomataceae,51,0-800,0-800,0.8431372549019608,0.8431372549019608,1.0,235.0,18.0,1169.0,True,True
+Guarea constricta,Guarea constricta,False,Melastomataceae,7,150-1150,150-1150,0.8571428571428571,0.8571428571428571,1.0,427.0,146.40000000000003,909.2999999999997,True,True
+Guarea pterorhachis,Guarea pterorhachis,False,Melastomataceae,82,0-750,0-750,0.9512195121951219,0.9512195121951219,1.0,257.0,27.25,731.2,True,True
+Henriettella tuberculosa,Henriettea tuberculosa,True,Melastomataceae,179,0-1000,0-1600,0.9217877094972067,0.9888268156424581,1.0,323.0,31.8,1058.8999999999999,True,True
+Maieta poeppigii,Miconia alternidomatia,True,Melastomataceae,1,0-550,0-550,1.0,1.0,,5.0,5.0,5.0,True,True
+Miconia argentea,Miconia argentea,False,Melastomataceae,191,0-1200,0-1200,0.9267015706806283,0.9267015706806283,1.0,323.0,9.5,1228.5,True,True
+Miconia chiriquiensis,Miconia chiriquiensis,False,Melastomataceae,54,1500-2400,1000-2400,0.5370370370370371,0.6666666666666666,0.9444444444444444,2205.0,1093.5,2522.4999999999995,True,True
+Miconia dissitinervia,Miconia dissitinervia,False,Melastomataceae,20,0-600,0-600,0.95,0.95,1.0,106.5,17.5,501.10000000000014,True,True
+Miconia hyperprasina,Miconia hyperprasina,False,Melastomataceae,11,50-850,50-850,0.6363636363636364,0.6363636363636364,0.8181818181818182,734.0,144.0,1488.5,True,True
+Miconia loreyoides,Miconia loreyoides,False,Melastomataceae,73,500-1600,500-1600,0.8767123287671232,0.8767123287671232,1.0,980.0,59.0,1478.1999999999994,True,True
+Miconia pileata,Miconia pileata,False,Melastomataceae,11,50-450,50-450,0.7272727272727273,0.7272727272727273,1.0,56.0,18.5,559.0,True,True
+Miconia sparrei,Miconia sparrei,False,Melastomataceae,13,0-200,0-200,1.0,1.0,1.0,133.0,42.2,194.0,True,True
+Monochaetum linearifolium,Monochaetum linearifolium,False,Melastomataceae,43,1400-1800,1400-1800,0.7674418604651163,0.7674418604651163,1.0,1533.0,912.8,1764.0,True,True
+Mouriri tuberculata,Mouriri tuberculata,False,Melastomataceae,26,50-500,50-500,0.8076923076923077,0.8076923076923077,1.0,186.0,30.75,518.0,True,True
+Rhynchanthera paludicola,Rhynchanthera paludicola,False,Melastomataceae,23,700-1200,0-1200,0.4782608695652174,0.9565217391304348,1.0,712.0,38.0,1189.8999999999999,True,True
+Topobea gerardoana,Blakea gerardoana,True,Melastomataceae,15,1900-2100,1900-2100,0.0,0.0,1.0,2149.0,1719.3,2338.4,False,True
+Trichilia tuberculata,Trichilia tuberculata,False,Melastomataceae,61,0-350,0-350,0.9344262295081968,0.9344262295081968,0.9833333333333333,56.0,18.0,376.0,True,True
+Glinus radiatus,Glinus radiatus,False,Menispermaceae,17,0-200,0-200,0.9411764705882353,0.9411764705882353,1.0,37.0,2.0,130.79999999999987,True,True
+Castilla elastica,Castilla elastica,False,Moraceae,68,0-650,0-650,0.8676470588235294,0.8676470588235294,1.0,166.5,28.6,1055.6499999999999,True,True
+Ficus cuatrecasasiana,Ficus cuatrecasasiana,False,Moraceae,2,350-1000,350-1000,0.5,0.5,1.0,508.0,338.8,677.1999999999999,True,True
+Ficus obtusifolia,Ficus obtusifolia,False,Moraceae,123,0-1000,0-1000,0.9349593495934959,0.9349593495934959,1.0,174.0,10.0,1018.5,True,True
+Helicostylis tovarensis,Helicostylis tovarensis,False,Moraceae,67,450-1550,450-1550,0.9701492537313433,0.9701492537313433,0.8955223880597015,940.0,504.0,1491.0,True,True
+Trophis mexicana,Trophis mexicana,False,Moraceae,118,700-1700,0-1700,0.7288135593220338,0.9745762711864406,1.0,950.5,235.0,1470.0,True,True
+Ardisia generalensis,Ardisia generalensis,False,Moringaceae,0,,,,,,,,,,
+Ardisia subsessilifolia,Ardisia subsessilifolia,False,Moringaceae,26,2300-3400,2000-3400,0.7692307692307693,0.8846153846153846,1.0,2582.0,1932.25,3001.75,True,True
+Gentlea micranthera,Gentlea micranthera,False,Moringaceae,30,1100-2000,1100-2000,0.7,0.7,1.0,1450.0,962.5,2243.149999999999,True,True
+Myrsine pellucidopunctata,Myrsine pellucidopunctata,False,Moringaceae,100,600-1700,200-2750,0.65,0.95,1.0,984.0,368.45000000000005,2570.55,True,True
+Virola surinamensis,Virola surinamensis,False,Moringaceae,54,0-900,0-900,0.9074074074074074,0.9074074074074074,1.0,170.0,26.450000000000003,1066.5999999999997,True,True
+Eugenia chavarriae,Eugenia chavarriae,False,Myrtaceae,10,0-800,0-800,1.0,1.0,1.0,122.0,35.0,290.95,True,True
+Eugenia herrerae,Eugenia herrerae,False,Myrtaceae,3,700-700,700-700,0.0,0.0,1.0,924.0,728.7,2275.7999999999997,False,False
+Eugenia sancarlosensis,Eugenia sancarlosensis,False,Myrtaceae,6,0-50,0-50,0.3333333333333333,0.3333333333333333,1.0,53.5,47.5,67.25,False,True
+Myrcia splendens,Myrcia splendens,False,Myrtaceae,393,0-2000,0-2000,0.9720101781170484,0.9720101781170484,1.0,1002.0,69.2,1811.9999999999998,True,True
+Psidium laruotteanum,Psidium larueotteanum,True,Myrtaceae,5,200-350,200-350,0.0,0.0,1.0,435.0,385.4,608.8,False,False
+Neea pittieri,Neea pittieri,False,Nyctaginaceae,115,500-1700,500-1700,0.7391304347826086,0.7391304347826086,1.0,1059.0,53.1,1705.8,True,True
+Ouratea jefensis,Ouratea jefensis,False,Nyctaginaceae,7,450-1100,450-1100,0.5714285714285714,0.5714285714285714,1.0,1001.0,364.6,1312.7,True,True
+Forestiera cartaginensis,Forestiera cartaginensis,False,Olacaceae,30,1200-1700,1200-1700,0.5666666666666667,0.5666666666666667,1.0,1281.0,879.0,1852.0,True,True
+Ludwigia dodecandra,Ludwigia dodecandra,False,Olacaceae,0,,,,,,,,,,
+Ludwigia rigida,Ludwigia rigida,False,Olacaceae,9,0-850,0-1200,1.0,1.0,1.0,286.0,55.2,775.4,True,True
+Oxalis barrelieri,Oxalis barrelieri,False,Opiliaceae,106,600-1900,0-1900,0.2169811320754717,1.0,1.0,217.0,13.0,1148.0,True,True
+Passiflora eueidipabulum,Passiflora eueidipabulum,False,Opiliaceae,8,0-950,0-950,0.875,0.875,1.0,834.0,171.7,1178.3499999999997,True,True
+Passiflora obovata,Passiflora obovata,False,Opiliaceae,6,700-1700,700-1700,0.6666666666666666,0.6666666666666666,1.0,1152.5,601.25,1471.75,True,True
+Aa paleacea,Aa paleacea,False,Orchidaceae,8,2950-3200,2950-3200,0.0,0.0,0.25,3272.5,1362.7,3396.0,False,True
+Baskervilla colombiana,Baskervilla colombiana,False,Orchidaceae,17,800-1100,800-1100,0.35294117647058826,0.35294117647058826,0.8235294117647058,1034.0,530.4,1299.1999999999996,True,True
+Brachionidium valerioi,Brachionidium valerioi,False,Orchidaceae,2,2000-2400,2000-2400,0.0,0.0,,786.0,739.2,832.8,False,False
+Campylocentrum tyrridion,Campylocentrum tyrridion,False,Orchidaceae,2,0-100,0-100,1.0,1.0,1.0,24.5,10.55,38.449999999999996,True,True
+Cischweinfia pusilla,Cischweinfia pusilla,False,Orchidaceae,0,,,,,,,,,,
+Cranichis acuminatissima,Cranichis acuminatissima,False,Orchidaceae,4,1900-2400,1900-2400,0.5,0.5,0.75,1836.0,291.5,2169.25,False,True
+Cryptocentrum gracillimum,Maxillaria gracillima,True,Orchidaceae,8,750-900,750-900,0.5,0.5,1.0,847.0,447.55,1478.4499999999996,True,True
+Dichaea ciliolata,Dichaea ciliolata,False,Orchidaceae,19,650-1600,650-1600,0.8421052631578947,0.8421052631578947,1.0,1287.0,650.6,1618.1999999999998,True,True
+Dichaea schlechteri,Dichaea similis,True,Orchidaceae,0,,,,,,,,,,
+Dresslerella stellaris,Dresslerella stellaris,False,Orchidaceae,0,,,,,,,,,,
+Elleanthus jimenezii,Elleanthus jimenezii,False,Orchidaceae,28,450-1600,450-1600,0.8571428571428571,0.8571428571428571,1.0,1221.5,662.6500000000001,1706.3,True,True
+Encyclia peraltensis,Encyclia peraltensis,False,Orchidaceae,3,50-1300,50-1300,1.0,1.0,0.6666666666666666,967.0,444.1,1021.9,True,True
+Fernandezia tica,Fernandezia sanguinea,True,Orchidaceae,3,1700-2000,1700-2000,0.3333333333333333,0.3333333333333333,0.0,1902.0,224.4,2174.7,True,True
+Goniochilus leochilinus,Leochilus leochilinus,True,Orchidaceae,15,750-1400,750-1400,0.8,0.8,0.7333333333333333,1231.0,842.8,1553.0999999999997,True,True
+Habenaria monorrhiza,Habenaria monorrhiza,False,Orchidaceae,113,0-1800,0-1800,0.9823008849557522,0.9823008849557522,1.0,1184.0,158.6,1705.9999999999998,True,True
+Isochilus chiriquensis,Isochilus chiriquensis,False,Orchidaceae,10,1100-1450,1100-1450,0.2,0.2,0.9,1454.5,796.85,1802.0499999999995,False,True
+Kefersteinia retanae,Kefersteinia retanae,False,Orchidaceae,0,,,,,,,,,,
+Lepanthes candida,Lepanthes candida,False,Orchidaceae,9,1600-1800,1600-1800,0.3333333333333333,0.3333333333333333,0.2222222222222222,1560.0,628.2,1800.4,False,True
+Lepanthes demissa,Lepanthes demissa,False,Orchidaceae,1,2100-2300,2100-2300,0.0,0.0,1.0,1881.0,1881.0,1881.0,False,False
+Lepanthes fascinata,Lepanthes fascinata,False,Orchidaceae,2,1700-1750,1700-1750,0.5,0.5,1.0,1995.5,1733.15,2257.85,False,True
+Lepanthes johnsonii,Lepanthes johnsonii,False,Orchidaceae,0,,,,,,,,,,
+Lepanthes purpurea,Lepanthes purpurea,False,Orchidaceae,4,1100-1150,1100-1150,0.25,0.25,0.75,1454.0,1034.0,1796.65,False,True
+Lepanthopsis obliquipetala,Lepanthopsis obliquipetala,False,Orchidaceae,0,,,,,,,,,,
+Macradenia brassavolae,Macradenia brassavolae,False,Orchidaceae,2,0-100,0-100,0.5,0.5,1.0,125.5,26.950000000000003,224.04999999999998,False,True
+Malaxis histionantha,Malaxis histionantha,False,Orchidaceae,9,1000-1700,1000-1700,0.3333333333333333,0.3333333333333333,0.3333333333333333,967.0,842.8,1466.8,False,True
+Masdevallia chasei,Masdevallia chasei,False,Orchidaceae,25,950-1800,950-1800,0.88,0.88,0.56,1533.0,354.60000000000014,1696.3999999999999,True,True
+Masdevallia schizopetala,Masdevallia schizopetala,False,Orchidaceae,10,1050-2000,1050-2000,0.8,0.8,1.0,1444.5,1176.85,2891.399999999999,True,True
+Maxillaria amabilis,Maxillaria amabilis,False,Orchidaceae,11,1200-2600,1200-2600,0.7272727272727273,0.7272727272727273,0.45454545454545453,1756.0,612.5,2435.0,True,True
+Maxillaria burgeri,Maxillaria burgeri,False,Orchidaceae,13,1100-2600,1100-2600,0.6923076923076923,0.6923076923076923,0.6153846153846154,2440.0,1063.4,2731.0,True,True
+Maxillaria dendrobioides,Maxillaria dendrobioides,False,Orchidaceae,114,800-2400,800-2400,0.9210526315789473,0.9210526315789473,1.0,1433.5,727.75,1921.8999999999999,True,True
+Maxillaria longipetiolata,Maxillaria longipetiolata,False,Orchidaceae,6,0-600,0-600,0.8333333333333334,0.8333333333333334,1.0,443.0,197.5,643.25,True,True
+Maxillaria parvilabia,Maxillaria parvilabia,False,Orchidaceae,19,1400-2300,1400-2300,0.7894736842105263,0.7894736842105263,1.0,1631.0,1128.2,2205.0,True,True
+Maxillaria serrulata,Maxillaria serrulata,False,Orchidaceae,3,1400-2000,1400-2000,1.0,1.0,1.0,1698.0,1520.7,1870.8,True,True
+Mesospinidium horichii,Brassia horichii,True,Orchidaceae,5,600-1000,600-1000,0.4,0.4,1.0,1000.0,601.4,1105.8,True,True
+Myoxanthus scandens,Myoxanthus scandens,False,Orchidaceae,12,50-1900,50-1900,0.8333333333333334,0.8333333333333334,0.9166666666666666,351.0,16.0,1462.8999999999996,True,True
+Oerstedella crescentiloba,Epidendrum crescentilobum,True,Orchidaceae,13,1300-2500,1300-2500,0.7692307692307693,0.7692307692307693,0.8461538461538461,1638.0,56.0,2566.1999999999994,True,True
+Oncidium bryolophotum,Oncidium bryolophotum,False,Orchidaceae,84,1000-2400,1000-2400,0.9285714285714286,0.9285714285714286,0.7738095238095238,1559.0,986.85,2271.7999999999993,True,True
+Oncidium panduriforme,Cyrtochiloides panduriformis,True,Orchidaceae,17,1500-2400,1500-2400,0.6470588235294118,0.6470588235294118,0.4117647058823529,1559.0,790.0,1920.3999999999996,True,True
+Osmoglossum egertonii,Cuitlauzina egertonii,True,Orchidaceae,6,900-1700,900-1700,0.8333333333333334,0.8333333333333334,1.0,1627.5,1422.5,1739.25,True,True
+Pelexia obliqua,Pelexia obliqua,False,Orchidaceae,5,50-100,50-100,0.2,0.2,1.0,49.0,39.6,1393.5999999999997,False,True
+Platystele propinqua,Platystele propinqua,False,Orchidaceae,9,1400-1900,1400-1900,0.5555555555555556,0.5555555555555556,0.8888888888888888,1772.0,1389.0,2193.7999999999997,True,True
+Pleurothallis bothros,Pleurothallis bothros,False,Orchidaceae,23,1000-1750,1000-1750,0.7391304347826086,0.7391304347826086,0.5652173913043478,1206.0,841.8,1575.8,True,True
+Pleurothallis conochila,Stelis conochila,True,Orchidaceae,4,700-1600,700-1600,0.75,0.75,0.75,1250.0,896.05,1649.0,True,True
+Pleurothallis endresii,Anathallis endresii,True,Orchidaceae,0,,,,,,,,,,
+Pleurothallis grayumii,Anathallis grayumii,True,Orchidaceae,3,1000-1100,1000-1100,0.3333333333333333,0.3333333333333333,1.0,1103.0,1092.2,1617.8,False,True
+Pleurothallis lentiginosa,Specklinia lentiginosa,True,Orchidaceae,9,1600-2050,1600-2050,0.7777777777777778,0.7777777777777778,0.7777777777777778,1966.0,1756.8,2184.4,True,True
+Pleurothallis montezumae,Specklinia montezumae,True,Orchidaceae,7,600-600,600-600,0.0,0.0,0.7142857142857143,597.0,511.0,1298.1,False,True
+Pleurothallis pubescens,Acianthera pubescens,True,Orchidaceae,0,,,,,,,,,,
+Pleurothallis setosa,Muscarella fimbriata,True,Orchidaceae,7,150-1200,150-1200,0.42857142857142855,0.42857142857142855,1.0,223.0,45.5,1251.0,True,True
+Pleurothallis villosa,Stelis villosa,True,Orchidaceae,0,,,,,,,,,,
+Prosthechea brassavolae,Prosthechea brassavolae,False,Orchidaceae,51,900-2600,900-2600,0.9411764705882353,0.9411764705882353,1.0,1844.0,687.5,2498.5,True,True
+Prosthechea pseudopygmaea,Prosthechea pseudopygmaea,False,Orchidaceae,52,1100-1800,1100-1800,0.5576923076923077,0.5576923076923077,0.40384615384615385,1392.0,54.50000000000001,2051.9,True,True
+Restrepiella ophiocephala,Restrepiella ophiocephala,False,Orchidaceae,2,600-1200,600-1200,1.0,1.0,1.0,806.0,779.0,833.0,True,True
+Scaphosepalum anchoriferum,Scaphosepalum anchoriferum,False,Orchidaceae,26,1000-1900,1000-1900,0.9230769230769231,0.9230769230769231,0.2692307692307692,1532.5,996.25,1698.75,True,True
+Scaphyglottis densa,Scaphyglottis densa,False,Orchidaceae,38,400-1600,400-1600,0.7631578947368421,0.7631578947368421,1.0,1019.5,55.0,1626.85,True,True
+Scaphyglottis prolifera,Scaphyglottis prolifera,False,Orchidaceae,85,0-1500,0-1500,0.9764705882352941,0.9764705882352941,1.0,666.0,23.400000000000002,1409.3999999999996,True,True
+Sigmatostalix hymenantha,Oncidium hymenanthum,True,Orchidaceae,12,300-1150,300-1150,1.0,1.0,0.5833333333333334,640.5,535.1,922.6499999999999,True,True
+Sobralia kerryae,Sobralia kerryae,False,Orchidaceae,9,1000-1200,1000-1200,0.2222222222222222,0.2222222222222222,0.8888888888888888,1062.0,834.0,1546.6,True,True
+Spiranthes torta,Spiranthes torta,False,Orchidaceae,1,600-600,600-600,0.0,0.0,0.0,695.0,695.0,695.0,False,False
+Stelis ciliaris,Stelis ciliaris,False,Orchidaceae,4,1700-1700,1700-1700,0.0,0.0,0.5,1034.5,942.55,1754.5999999999997,False,True
+Stelis guatemalensis,Stelis pardipes,True,Orchidaceae,40,1500-1550,1500-1550,0.075,0.075,0.7,1519.5,707.4000000000001,2322.449999999999,True,True
+Stelis sanchoi,Stelis sanchoi,False,Orchidaceae,2,500-1550,500-1550,1.0,1.0,0.5,931.0,576.4,1285.6,True,True
+Stellilabium lankesteri,Telipogon lankesteri,True,Orchidaceae,1,700-900,700-900,0.0,0.0,1.0,386.0,386.0,386.0,False,False
+Telipogon costaricensis,Telipogon costaricensis,False,Orchidaceae,78,2700-3200,2700-3200,0.7307692307692307,0.7307692307692307,0.6794871794871795,3001.0,2501.65,3271.0,True,True
+Teuscheria horichiana,Teuscheria horichiana,False,Orchidaceae,0,,,,,,,,,,
+Trichopilia galeottiana,Trichopilia galeottiana,False,Orchidaceae,3,1000-1200,1000-1200,0.0,0.0,1.0,744.0,437.1,835.8,False,False
+Trichosalpinx navarrensis,Trichosalpinx navarrensis,False,Orchidaceae,2,1400-1400,1400-1400,0.0,0.0,0.5,878.5,450.55,1306.45,False,False
+Trisetella lasiochila,Trisetella lasiochila,False,Orchidaceae,0,,,,,,,,,,
+Wullschlaegelia calcarata,Wullschlaegelia calcarata,False,Orchidaceae,12,150-350,150-350,0.08333333333333333,0.08333333333333333,1.0,122.0,68.2,397.44999999999993,False,True
+Agrostis perennans,Agrostis perennans,False,Pandanaceae_Poaceae,44,2400-3400,2400-3400,0.9318181818181818,0.9318181818181818,0.75,2914.0,1983.6,3237.0,True,True
+Aristida appressa,Aristida appressa,False,Pandanaceae_Poaceae,17,0-250,0-250,0.9411764705882353,0.9411764705882353,0.8666666666666667,145.0,18.0,233.99999999999994,True,True
+Aulonemia viscosa,Aulonemia viscosa,False,Pandanaceae_Poaceae,11,1500-2650,1500-2650,0.6363636363636364,0.6363636363636364,0.9090909090909091,1871.0,789.0,2683.5,True,True
+Bouteloua americana,Bouteloua americana,False,Pandanaceae_Poaceae,8,0-100,0-100,0.875,0.875,1.0,45.0,9.45,92.19999999999999,True,True
+Cenchrus multiflorus,Cenchrus multiflorus,False,Pandanaceae_Poaceae,11,800-800,800-800,0.0,0.0,1.0,4.0,1.5,29.0,False,False
+Chusquea patens,Chusquea patens,False,Pandanaceae_Poaceae,47,1150-2800,1150-2800,0.851063829787234,0.851063829787234,1.0,1734.0,903.6,2763.0,True,True
+Coelorachis aurita,Rottboellia aurita,True,Pandanaceae_Poaceae,3,1050-1200,1050-1200,0.3333333333333333,0.3333333333333333,0.6666666666666666,588.0,66.0,1096.5,False,True
+Cynodon dactylon,Cynodon dactylon,False,Poaceae,45,0-1450,0-1450,0.9555555555555556,0.9555555555555556,1.0,587.0,9.0,1405.0,True,True
+Digitaria argillacea,Digitaria argillacea,False,Poaceae,2,0-1200,0-1200,1.0,1.0,1.0,45.0,45.0,45.0,True,True
+Echinochloa pyramidalis,Echinochloa pyramidalis,False,Poaceae,9,0-50,0-50,0.3333333333333333,0.3333333333333333,0.8888888888888888,80.0,11.0,1146.3999999999996,False,True
+Eragrostis pectinacea,Eragrostis pectinacea,False,Poaceae,13,0-1200,0-1200,0.9230769230769231,0.9230769230769231,1.0,86.0,7.0,1342.5999999999992,True,True
+Festuca cartagana,Festuca cartagana,False,Poaceae,9,2800-3400,2800-3400,1.0,1.0,1.0,3274.0,2873.0,3287.8,True,True
+Hackelochloa granularis,Hackelochloa granularis,False,Poaceae,46,0-800,0-800,0.9782608695652174,0.9782608695652174,1.0,102.0,2.0,398.25,True,True
+Isachne polygonoides,Isachne polygonoides,False,Poaceae,14,0-750,0-750,0.7142857142857143,0.7142857142857143,1.0,284.0,15.3,1232.55,True,True
+Lasiacis sorghoidea,Lasiacis maculata,True,Poaceae,78,0-950,0-950,0.7692307692307693,0.7692307692307693,1.0,576.0,21.55,1537.2499999999993,True,True
+Muhlenbergia lehmanniana,Muhlenbergia lehmanniana,False,Poaceae,58,600-2200,600-2200,0.9655172413793104,0.9655172413793104,1.0,1527.5,811.75,1968.35,True,True
+Oryza latifolia,Oryza latifolia,False,Poaceae,142,0-650,0-1200,0.9929577464788732,0.9929577464788732,1.0,63.5,6.0,462.69999999999993,True,True
+Panicum maximum,Panicum maximum,False,Poaceae,1,0-500,0-1100,1.0,1.0,1.0,5.0,5.0,5.0,True,True
+Parodiolyra lateralis,Parodiolyra lateralis,False,Poaceae,1,650-1200,650-1200,1.0,1.0,1.0,1081.0,1081.0,1081.0,True,True
+Paspalum microstachyum,Paspalum microstachyum,False,Poaceae,10,0-100,0-700,0.7,1.0,1.0,57.0,5.9,126.54999999999995,True,True
+Paspalum squamulatum,Paspalum squamulatum,False,Poaceae,28,800-2100,800-2100,0.9642857142857143,0.9642857142857143,1.0,1478.0,1063.05,1799.6,True,True
+Pharus mezii,Pharus mezii,False,Poaceae,24,0-400,0-400,0.8333333333333334,0.8333333333333334,1.0,165.0,23.3,546.15,True,True
+Rhipidocladum pittieri,Rhipidocladum pittieri,False,Poaceae,56,700-1400,700-1400,0.8214285714285714,0.8214285714285714,1.0,1000.5,649.5,1462.25,True,True
+Setaria scandens,Setaria scandens,False,Poaceae,2,50-1100,50-1100,0.5,0.5,0.5,64.5,40.65,88.35,True,True
+Stenotaphrum secundatum,Stenotaphrum secundatum,False,Poaceae,12,0-1700,0-1700,0.9166666666666666,0.9166666666666666,1.0,1121.0,7.2,1651.2499999999998,True,True
+Trisetum irazuense,Peyritschia irazuensis,True,Poaceae,9,3000-3500,3000-3500,0.6666666666666666,0.6666666666666666,1.0,3146.0,1556.0,3496.0,True,True
+Pontederia sagittata,Pontederia sagittata,False,Pontederiaceae_Zingiberaceae,5,0-100,0-500,0.0,0.8,1.0,236.0,185.0,578.1999999999999,True,True
+Renealmia pluriplicata,Renealmia pluriplicata,False,Pontederiaceae_Zingiberaceae,109,0-800,0-800,0.8715596330275229,0.8715596330275229,1.0,195.0,19.4,1088.6,True,True
+Typha domingensis,Typha domingensis,False,Pontederiaceae_Zingiberaceae,38,0-600,0-1250,0.7894736842105263,0.868421052631579,1.0,40.0,6.85,1840.649999999999,True,True
+Adenocalymma inundatum,Adenocalymma inundatum,False,Vol IV,39,0-300,0-300,0.8717948717948718,0.8717948717948718,1.0,73.0,14.5,1147.8000000000002,True,True
+Ageratina standleyi,Ageratina standleyi,False,Vol IV,0,,,,,,,,,,
+Alternanthera laguroides,Alternanthera laguroides,False,Vol IV,96,0-1300,0-1450,0.9479166666666666,0.9791666666666666,1.0,622.5,56.0,1225.5,True,True
+Anaxagorea dolichocarpa,Anaxagorea dolichocarpa,False,Vol IV,24,0-400,0-400,1.0,1.0,0.9583333333333334,165.5,82.5,376.29999999999995,True,True
+Annona montana,Annona montana,False,Vol IV,26,0-700,0-700,0.9230769230769231,0.9230769230769231,0.9230769230769231,218.0,20.0,917.25,True,True
+Aphelandra leonardii,Aphelandra leonardii,False,Vol IV,13,600-1600,0-1600,0.7692307692307693,0.9230769230769231,1.0,1022.0,497.0,1670.3999999999994,True,True
+Aristolochia cordiflora,Aristolochia cordiflora,False,Vol IV,26,0-400,0-400,1.0,1.0,0.88,38.0,19.0,164.25,True,True
+Aspidosperma cruentum,Aspidosperma cruentum,False,Vol IV,8,0-1000,0-1000,0.875,0.875,1.0,86.0,17.9,1187.9499999999991,True,True
+Bartlettina maxonii,Bartlettina maxonii,False,Vol IV,11,800-1700,800-1700,1.0,1.0,1.0,1331.0,1043.0,1563.0,True,True
+Begonia copeyana,Begonia copeyana,False,Vol IV,17,1800-2400,1300-2400,0.5294117647058824,0.7058823529411765,1.0,1803.0,190.4,1983.8,True,True
+Begonia plebeja,Begonia plebeja,False,Vol IV,67,0-1200,0-1200,0.9552238805970149,0.9552238805970149,0.9701492537313433,487.0,71.60000000000001,1164.3,True,True
+Berberis hemsleyi,Berberis hemsleyi,False,Vol IV,32,2200-3400,2200-3400,0.8125,0.8125,1.0,2849.0,1586.75,3357.85,True,True
+Bignonia phellosperma,Bignonia phellosperma,False,Vol IV,21,0-50,0-50,0.8095238095238095,0.8095238095238095,1.0,11.0,6.0,144.0,True,True
+Burmeistera flava,Burmeistera flava,False,Vol IV,2,1200-1600,1200-1600,0.5,0.5,1.0,1243.0,1121.5,1364.5,True,True
+Bursera simaruba,Bursera simaruba,False,Vol IV,310,0-1100,0-1800,0.9354838709677419,1.0,1.0,140.0,11.450000000000001,1135.9,True,True
+Calyptocarpus wendlandii,Calyptocarpus wendlandii,False,Vol IV,34,500-1900,500-1900,0.9411764705882353,0.9411764705882353,1.0,1175.5,592.25,1565.3,True,True
+Carlowrightia arizonica,Carlowrightia arizonica,False,Vol IV,14,0-300,0-300,1.0,1.0,1.0,42.0,1.0,283.45,True,True
+Centratherum punctatum,Centratherum punctatum,False,Vol IV,81,0-1800,0-1800,0.9876543209876543,0.9876543209876543,1.0,625.0,53.0,1324.0,True,True
+Ceratophyllum muricatum,Ceratophyllum muricatum,False,Vol IV,15,0-50,0-50,0.9333333333333333,0.9333333333333333,0.8666666666666667,12.0,5.7,65.29999999999993,True,True
+Chromolaena ivifolia,Chromolaena ivifolia,False,Vol IV,1,450-450,450-450,0.0,0.0,1.0,374.0,374.0,374.0,False,False
+Clethra consimilis,Clethra consimilis,False,Vol IV,26,1150-2200,1150-2200,0.7307692307692307,0.7307692307692307,1.0,1818.5,800.0,2564.75,True,True
+Condylocarpon intermedium,Condylocarpon intermedium,False,Vol IV,0,,,,,,,,,,
+Cordia dwyeri,Cordia dwyeri,False,Vol IV,24,0-800,0-800,1.0,1.0,1.0,131.5,18.400000000000002,641.0,True,True
+Couepia janzenii,Couepia janzenii,False,Vol IV,5,0-400,0-400,0.4,0.4,1.0,1484.0,57.0,1563.0,False,True
+Crocanthemum chihuahuense,Crocanthemum chihuahuense,False,Vol IV,0,,,,,,,,,,
+Cymbopetalum torulosum,Cymbopetalum torulosum,False,Vol IV,78,0-1000,0-1200,0.9487179487179487,0.9743589743589743,1.0,153.0,38.0,988.1499999999999,True,True
+Dendropanax globosus,Dendropanax globosus,False,Vol IV,67,1050-2550,600-2800,0.6119402985074627,0.8208955223880597,1.0,1456.0,131.40000000000003,2231.799999999999,True,True
+Desmopsis oerstedii,Desmopsis oerstedii,False,Vol IV,24,700-1200,700-1200,0.6666666666666666,0.6666666666666666,1.0,1128.5,797.75,1858.3999999999987,True,True
+Dresslerothamnus schizotrichus,Dresslerothamnus schizotrichus,False,Vol IV,10,600-1600,600-1600,0.8,0.8,1.0,1492.0,802.1,1711.1499999999999,True,True
+Echites woodsonianus,Echites woodsonianus,False,Vol IV,24,0-1100,0-1100,0.7083333333333334,0.7083333333333334,0.9166666666666666,665.0,52.0,1664.9999999999995,True,True
+Erato costaricensis,Erato costaricensis,False,Vol IV,27,1000-2000,1000-2000,0.9259259259259259,0.9259259259259259,1.0,1434.0,988.7,1773.0,True,True
+Fischeria billbergiana,Fischeria billbergiana,False,Vol IV,41,0-1000,0-1000,0.9024390243902439,0.9024390243902439,1.0,262.0,56.0,1363.0,True,True
+Forsteronia acouci,Forsteronia acouci,False,Vol IV,1,150-300,150-300,0.0,0.0,1.0,140.0,140.0,140.0,False,False
+Galeana pratensis,Galeana pratensis,False,Vol IV,12,200-1100,200-1100,0.9166666666666666,0.9166666666666666,1.0,831.5,158.1,900.5999999999999,True,True
+Gonolobus hammelii,Atrostemma hammelii,True,Vol IV,2,300-300,300-300,0.0,0.0,1.0,218.5,199.15,237.85,False,False
+Guatteria dotana,Guatteria dotana,False,Vol IV,5,300-1050,300-1050,0.8,0.8,1.0,776.0,618.6,1339.1999999999998,True,True
+Gyminda tonduzii,Gyminda tonduzii,False,Vol IV,75,1100-2500,800-2500,0.8266666666666667,0.9333333333333333,0.13333333333333333,1630.0,840.4,2161.7999999999997,True,True
+Hedyosmum mexicanum,Hedyosmum mexicanum,False,Vol IV,42,1850-2800,1300-3200,0.8095238095238095,0.9761904761904762,1.0,2623.5,2201.4,2999.85,True,True
+Hieracium irasuense,Hieracium irasuense,False,Vol IV,65,2300-3700,2300-3700,0.8923076923076924,0.8923076923076924,1.0,2986.0,1843.6,3507.0,True,True
+Hydrocotyle mexicana,Hydrocotyle mexicana,False,Vol IV,148,550-2600,550-2600,0.9797297297297297,0.9797297297297297,1.0,1520.5,820.0,2259.55,True,True
+Ilex guianensis,Ilex guianensis,False,Vol IV,53,0-100,0-700,0.39622641509433965,0.4528301886792453,1.0,1151.0,7.0,1707.6,False,True
+Impatiens walleriana,Impatiens walleriana,False,Vol IV,339,550-1600,50-1600,0.799410029498525,0.9144542772861357,1.0,1101.0,179.4,1639.0,True,True
+Justicia altior,Justicia altior,False,Vol IV,4,1400-2400,1400-2400,0.25,0.25,1.0,911.0,770.85,1372.4499999999998,False,False
+Justicia densibracteata,Justicia densibracteata,False,Vol IV,12,400-700,0-700,0.4166666666666667,0.9166666666666666,1.0,480.5,24.8,774.8999999999999,True,True
+Justicia tonduzii,Justicia tonduzii,False,Vol IV,14,0-1000,0-1400,0.9285714285714286,1.0,1.0,369.5,87.0,1053.6499999999999,True,True
+Lasianthaea fruticosa,Lasianthaea fruticosa,False,Vol IV,208,0-1800,0-1800,0.9759615384615384,0.9759615384615384,1.0,936.0,67.35,1650.9499999999994,True,True
+Liabum asclepiadeum,Liabum asclepiadeum,False,Vol IV,13,150-1700,150-1700,1.0,1.0,1.0,1254.0,216.8,1523.0,True,True
+Lundia corymbifera,Lundia corymbifera,False,Vol IV,72,0-900,0-900,0.9305555555555556,0.9305555555555556,1.0,150.0,11.200000000000001,913.1500000000001,True,True
+Mandevilla villosa,Mandevilla villosa,False,Vol IV,13,100-700,100-700,0.5384615384615384,0.5384615384615384,1.0,281.0,62.0,1710.0,True,True
+Marsdenia undulata,Ruehssia undulata,True,Vol IV,2,350-350,350-350,0.0,0.0,1.0,185.5,25.75,345.25,False,False
+Matelea picturata,Matelea picturata,False,Vol IV,4,1700-1800,1300-1800,0.25,0.5,1.0,1906.0,1418.95,2408.35,False,True
+Maytenus recondita,Monteverdia recondita,True,Vol IV,64,300-1800,50-1800,0.859375,0.9375,1.0,1267.0,215.60000000000002,1788.3499999999992,True,True
+Mesechites trifidus,Mesechites trifidus,False,Vol IV,95,0-650,0-800,0.8842105263157894,0.968421052631579,1.0,165.0,5.4,739.5999999999999,True,True
+Mikania hookeriana,Mikania hookeriana,False,Vol IV,66,0-1600,0-1600,0.9242424242424242,0.9242424242424242,1.0,511.0,39.0,1727.0,True,True
+Montanoa hibiscifolia,Montanoa hibiscifolia,False,Vol IV,60,500-1900,500-1900,1.0,1.0,1.0,1290.0,857.0,1622.35,True,True
+Nelsonia canescens,Nelsonia canescens,False,Vol IV,91,0-1000,0-1000,0.967032967032967,0.967032967032967,1.0,161.0,14.5,934.0,True,True
+Neomirandea pendulissima,Neomirandea pendulissima,False,Vol IV,3,600-1000,600-1000,0.3333333333333333,0.3333333333333333,1.0,1556.0,718.1,1556.0,False,True
+Odontonema cuspidatum,Odontonema cuspidatum,False,Vol IV,36,0-1100,0-1300,0.75,0.9722222222222222,1.0,428.5,54.5,1230.75,True,True
+Oreopanax oerstedianus,Oreopanax oerstedianus,False,Vol IV,144,700-2450,550-2450,0.8402777777777778,0.8888888888888888,1.0,1478.0,657.0,2612.1,True,True
+Ottoa oenanthoides,Ottoa oenanthoides,False,Vol IV,47,3000-3800,3000-3800,0.8085106382978723,0.8085106382978723,1.0,3318.0,2690.3,3628.0,True,True
+Pectis elongata,Pectis elongata,False,Vol IV,10,0-1100,0-1100,1.0,1.0,1.0,155.0,11.0,635.5499999999995,True,True
+Pereskia lychnidiflora,Leuenbergeria lychnidiflora,True,Vol IV,8,0-100,0-100,0.875,0.875,1.0,69.0,6.75,794.9499999999994,True,True
+Pleuropetalum pleiogynum,Pleuropetalum pleiogynum,False,Vol IV,116,0-1300,0-1800,0.9310344827586207,0.9827586206896551,1.0,255.0,15.25,1565.5,True,True
+Prestonia mexicana,Prestonia mexicana,False,Vol IV,87,0-1600,0-1600,0.8620689655172413,0.8620689655172413,1.0,351.0,18.0,1759.0,True,True
+Protium hammelii,Protium hammelii,False,Vol IV,18,0-500,0-700,0.9444444444444444,1.0,1.0,35.0,13.100000000000001,497.79999999999995,True,True
+Pseudognaphalium semiamplexicaule,Pseudognaphalium semiamplexicaule,False,Vol IV,6,900-3350,900-3350,0.8333333333333334,0.8333333333333334,1.0,2746.0,1201.5,3358.75,True,True
+Quadrella odoratissima,Quadrella odoratissima,False,Vol IV,52,0-100,0-250,0.9038461538461539,0.9615384615384616,0.9782608695652174,22.0,6.0,166.35,True,True
+Quararibea yunckeri,Quararibea yunckeri,False,Vol IV,50,100-400,100-800,0.16,0.4,0.08,349.0,16.45,1219.85,True,True
+Roldana scandens,Roldana scandens,False,Vol IV,11,2800-3250,2800-3250,0.6363636363636364,0.6363636363636364,1.0,2906.0,1416.0,3311.5,True,True
+Ruellia leonardiana,Ruellia leonardiana,False,Vol IV,6,0-400,0-800,0.8333333333333334,0.8333333333333334,1.0,141.0,47.5,733.75,True,True
+Sagina japonica,Sagina japonica,False,Vol IV,4,1300-1350,1300-1350,0.0,0.0,0.75,1226.5,1129.25,2974.4499999999994,False,True
+Sapranthus palanga,Sapranthus palanga,False,Vol IV,90,0-550,0-850,0.8555555555555555,0.9666666666666667,0.9777777777777777,139.0,6.9,824.9499999999999,True,True
+Schefflera seibertii,Sciodaphyllum seibertii,True,Vol IV,21,1100-1700,700-1700,0.6190476190476191,0.8571428571428571,1.0,1284.0,67.0,1518.0,True,True
+Selloa breviligulata,Aphanactis breviligulata,True,Vol IV,5,3400-3600,3400-3600,0.6,0.6,1.0,3496.0,3383.0,3532.8,True,True
+Sinclairia tonduzii,Sinclairia tonduzii,False,Vol IV,4,900-2800,900-2800,1.0,1.0,0.75,2351.5,1189.9,2565.35,True,True
+Standleyanthus triptychus,Standleyanthus triptychus,False,Vol IV,0,,,,,,,,,,
+Stenostephanus gracilis,Stenostephanus gracilis,False,Vol IV,4,800-1000,800-1000,0.75,0.75,1.0,881.0,727.4,905.4,True,True
+Stevia triflora,Stevia triflora,False,Vol IV,21,300-1550,300-1550,0.5714285714285714,0.5714285714285714,1.0,1104.0,268.0,3070.0,True,True
+Tabernaemontana donnell-smithii,Tabernaemontana donnell-smithii,False,Vol IV,284,0-1200,0-1200,0.9366197183098591,0.9366197183098591,1.0,291.5,18.15,1259.249999999999,True,True
+Talamancaster sakiranus,Talamancaster sakiranus,False,Vol IV,5,3300-3500,3300-3500,0.4,0.4,1.0,3387.0,3079.4,3504.8,True,True
+Tithonia rotundifolia,Tithonia rotundifolia,False,Vol IV,78,0-1800,0-1800,1.0,1.0,1.0,708.0,43.0,1236.1499999999996,True,True
+Toxicodendron striatum,Toxicodendron striatum,False,Vol IV,55,1050-1900,500-2100,0.8181818181818182,0.9636363636363636,1.0,1408.0,909.9000000000001,1893.6999999999998,True,True
+Unonopsis hammelii,Unonopsis hammelii,False,Vol IV,19,0-500,0-500,0.8421052631578947,0.8421052631578947,1.0,148.0,27.8,515.5999999999998,True,True
+Valeriana urticifolia,Valeriana urticifolia,False,Vol IV,33,800-2150,550-2150,0.9393939393939394,0.9393939393939394,1.0,1706.0,1064.6,2167.7999999999997,True,True
+Verbesina ovatifolia,Verbesina ovatifolia,False,Vol IV,50,0-1800,0-1800,1.0,1.0,1.0,712.0,100.45000000000002,1429.1999999999998,True,True
+Weberocereus bradei,Weberocereus bradei,False,Vol IV,41,0-850,0-850,1.0,1.0,1.0,287.0,13.0,716.0,True,True
+Wimmeria bartlettii,Wimmeria bartlettii,False,Vol IV,2,1100-1100,1100-1100,0.0,0.0,1.0,1004.0,1004.0,1004.0,False,False
+Abarema barbouriana,Jupunba barbouriana,True,Vol V,2,0-50,0-50,1.0,1.0,1.0,16.0,15.1,16.9,True,True
+Acalypha leptopoda,Acalypha leptopoda,False,Vol V,69,300-1400,0-1850,0.7246376811594203,0.9565217391304348,1.0,1173.0,222.80000000000007,1685.5999999999995,True,True
+Acidoton nicaraguensis,Gitara nicaraguensis,True,Vol V,101,0-850,0-1100,0.8613861386138614,0.9603960396039604,1.0,402.0,56.0,1086.0,True,True
+Aeschynomene pratensis,Aeschynomene pratensis,False,Vol V,14,350-850,350-850,0.7857142857142857,0.7857142857142857,1.0,384.0,178.3,763.5999999999999,True,True
+Aparisthmium cordatum,Aparisthmium cordatum,False,Vol V,26,200-900,200-900,0.6923076923076923,0.6923076923076923,1.0,382.0,151.5,1034.0,True,True
+Bauhinia petiolata,Bauhinia petiolata,False,Vol V,0,,,,,,,,,,
+Besleria pauciflora,Besleria pauciflora,False,Vol V,57,0-1000,0-1000,0.9824561403508771,0.9824561403508771,1.0,361.0,53.2,861.0,True,True
+Calliandra coriacea,Calliandra coriacea,False,Vol V,21,0-800,0-800,1.0,1.0,1.0,140.0,18.0,562.0,True,True
+Canavalia rosea,Canavalia rosea,False,Vol V,79,0-150,0-150,0.9113924050632911,0.9113924050632911,1.0,21.0,5.0,378.69999999999413,True,True
+Casearia tacanensis,Casearia tacanensis,False,Vol V,140,0-2000,0-2000,0.9714285714285714,0.9714285714285714,1.0,1383.0,64.2,1891.3999999999996,True,True
+Cavendishia gomezii,Cavendishia gomezii,False,Vol V,0,,,,,,,,,,
+Cayaponia glandulosa,Cayaponia glandulosa,False,Vol V,29,0-100,0-500,0.5172413793103449,0.6551724137931034,1.0,88.0,19.0,1121.9999999999995,True,True
+Chamaecrista diphylla,Chamaecrista diphylla,False,Vol V,49,100-750,100-1400,0.6122448979591837,0.9591836734693877,1.0,299.0,123.20000000000002,1152.0,True,True
+Chrysochlamys skutchii,Chrysochlamys skutchii,False,Vol V,37,50-750,50-750,0.7567567567567568,0.7567567567567568,1.0,449.0,112.4,1680.7999999999981,True,True
+Clusia croatii,Clusia croatii,False,Vol V,192,0-1800,0-1800,0.9479166666666666,0.9479166666666666,1.0,1105.0,53.75,1764.099999999999,True,True
+Cnestidium rufescens,Cnestidium rufescens,False,Vol V,47,0-600,0-1100,0.851063829787234,0.9787234042553191,1.0,127.0,26.900000000000002,773.8999999999997,True,True
+Cojoba valerioi,Cojoba catenata,True,Vol V,146,500-1400,500-1400,0.5821917808219178,0.5821917808219178,1.0,788.0,38.0,1398.75,True,True
+Columnea maculata,Columnea maculata,False,Vol V,23,100-900,100-900,0.8695652173913043,0.8695652173913043,1.0,679.0,73.10000000000002,864.0,True,True
+Combretum assimile,Combretum assimile,False,Vol V,5,0-50,0-50,0.4,0.4,1.0,65.0,18.0,222.79999999999998,False,True
+Cornus disciflora,Cornus disciflora,False,Vol V,142,1200-2650,1200-3000,0.8028169014084507,0.9295774647887324,0.7394366197183099,1977.0,1303.55,2747.75,True,True
+Croton decalobus,Croton decalobus,False,Vol V,27,800-1500,800-1500,0.8148148148148148,0.8148148148148148,1.0,1019.0,826.2,1719.0,True,True
+Croton tenuicaudatus,Croton tenuicaudatus,False,Vol V,35,100-900,100-900,0.7142857142857143,0.7142857142857143,0.9142857142857143,695.0,140.7,1684.7,True,True
+Cuscuta obtusiflora,Cuscuta obtusiflora,False,Vol V,2,1200-1200,1200-1200,0.0,0.0,0.5,1224.0,1168.2,1279.8,False,True
+Dalbergia glabra,Dalbergia glabra,False,Vol V,34,0-550,0-550,1.0,1.0,0.967741935483871,42.0,4.65,380.7,True,True
+Davilla kunthii,Davilla kunthii,False,Vol V,143,0-800,0-1100,0.916083916083916,0.986013986013986,1.0,243.0,43.0,966.3000000000003,True,True
+Desmodium heterocarpon,Grona heterocarpos,True,Vol V,21,0-350,0-350,0.9523809523809523,0.9523809523809523,1.0,67.0,38.0,316.0,True,True
+Desmodium uncinatum,Desmodium uncinatum,False,Vol V,22,800-1200,800-1200,0.6363636363636364,0.6363636363636364,1.0,1144.0,794.95,1675.0,True,True
+Dichapetalum pedunculatum,Dichapetalum pedunculatum,False,Vol V,20,0-1200,0-1700,0.8,0.95,1.0,570.0,24.75,1577.9,True,True
+Diospyros panamensis,Diospyros juruensis panamensis,True,Vol V,17,900-1250,900-1250,0.47058823529411764,0.47058823529411764,0.23529411764705882,917.0,141.4,1324.6,True,True
+Doyerea emetocathartica,Doyerea emetocathartica,False,Vol V,5,500-550,500-550,0.4,0.4,1.0,397.0,50.800000000000004,510.0,False,True
+Drymonia parviflora,Drymonia parviflora,False,Vol V,55,1150-1750,1150-2100,0.5272727272727272,0.8727272727272727,0.9818181818181818,1582.0,1081.4,1929.8,True,True
+Enterolobium schomburgkii,Enterolobium schomburgkii,False,Vol V,31,0-1050,0-1050,0.9354838709677419,0.9354838709677419,1.0,290.0,36.0,1023.5,True,True
+Erythrina thyrsiflora,Erythrina thyrsiflora,False,Vol V,27,50-1250,50-1250,0.8518518518518519,0.8518518518518519,1.0,554.0,58.2,1386.0,True,True
+Euphorbia lasiocarpa,Euphorbia lasiocarpa,False,Vol V,51,0-1100,0-1100,0.8627450980392157,0.8627450980392157,1.0,321.0,22.5,1336.5,True,True
+Galactia glaucescens,Galactia glaucescens,False,Vol V,4,200-500,200-500,0.5,0.5,1.0,225.0,151.9,1477.0499999999995,True,True
+Gliricidia sepium,Gliricidia sepium,False,Vol V,211,0-750,0-1250,0.7819905213270142,0.9715639810426541,1.0,94.0,7.0,1207.0,True,True
+Gonocalyx pterocarpus,Gonocalyx pterocarpus,False,Vol V,65,700-2250,700-2250,0.9230769230769231,0.9230769230769231,1.0,1405.0,648.0,2126.0,True,True
+Hasseltia floribunda,Hasseltia floribunda,False,Vol V,90,0-850,0-850,0.6333333333333333,0.6333333333333333,1.0,590.0,41.0,1663.1499999999999,True,True
+Inga alba,Inga alba,False,Vol V,60,0-800,0-800,0.9666666666666667,0.9666666666666667,1.0,186.0,15.95,518.0,True,True
+Inga jefensis,Inga jefensis,False,Vol V,13,0-850,0-850,0.8461538461538461,0.8461538461538461,1.0,32.0,15.8,1368.5999999999983,True,True
+Inga punctata,Inga punctata,False,Vol V,315,0-1800,0-1800,0.9936507936507937,0.9936507936507937,1.0,968.0,19.0,1571.6000000000004,True,True
+Ipomoea aurantiaca,Ipomoea aurantiaca,False,Vol V,9,1100-1300,1100-1300,0.1111111111111111,0.1111111111111111,1.0,1383.0,542.4000000000001,1526.6,False,True
+Ipomoea lindenii,Ipomoea lindenii,False,Vol V,123,0-2100,0-2100,0.991869918699187,0.991869918699187,1.0,983.0,193.2,1772.0,True,True
+Ipomoea santillanii,Ipomoea santillanii,False,Vol V,24,1100-1700,300-2300,0.5833333333333334,0.9583333333333334,1.0,1453.0,392.0,1724.65,True,True
+Jacquemontia ciliata,Jacquemontia gabrielii,True,Vol V,23,50-700,50-700,0.7391304347826086,0.7391304347826086,1.0,406.0,25.0,800.5999999999998,True,True
+Leptolobium panamense,Leptolobium panamense,False,Vol V,87,0-350,0-900,0.8620689655172413,0.9770114942528736,1.0,176.0,24.5,821.0,True,True
+Lonchocarpus hedyosmus,Lonchocarpus hedyosmus,False,Vol V,6,300-800,300-800,0.0,0.0,1.0,147.0,17.75,739.0,False,True
+Lonchocarpus schiedeanus,Lonchocarpus schiedeanus,False,Vol V,8,0-500,0-500,0.625,0.625,1.0,279.5,37.8,616.8499999999999,True,True
+Machaerium biovulatum,Machaerium biovulatum,False,Vol V,90,0-1150,0-1150,0.9222222222222223,0.9222222222222223,1.0,501.0,8.45,1233.6,True,True
+Macleania rupestris,Macleania rupestris,False,Vol V,261,1600-3400,1600-3400,0.9425287356321839,0.9425287356321839,1.0,2743.0,1547.0,3223.0,True,True
+Manihot aesculifolia,Manihot aesculifolia,False,Vol V,103,0-600,0-1000,0.970873786407767,0.9805825242718447,1.0,140.0,8.500000000000004,500.09999999999906,True,True
+Merremia dissecta,Distimake dissectus,True,Vol V,12,0-1000,0-1000,0.8333333333333334,0.8333333333333334,1.0,53.5,6.0,1080.0,True,True
+Mimosa ervendbergii,Mimosa ervendbergii,False,Vol V,9,50-1500,50-1500,0.8888888888888888,0.8888888888888888,1.0,201.0,50.400000000000006,1018.4,True,True
+Mucuna mutisiana,Mucuna mutisiana,False,Vol V,51,0-500,0-500,0.9411764705882353,0.9411764705882353,0.8695652173913043,80.0,10.5,785.0,True,True
+Nyssa talamancana,Nyssa talamancana,False,Vol V,20,450-1200,450-1200,0.9,0.9,0.9,764.0,473.0,1273.5000000000007,True,True
+Paradrymonia alata,Trichodrymonia alata,True,Vol V,7,100-200,100-200,0.2857142857142857,0.2857142857142857,1.0,284.0,176.0,399.4999999999999,False,True
+Pera arborea,Pera arborea,False,Vol V,31,0-650,0-650,0.8709677419354839,0.8709677419354839,1.0,344.0,36.5,1050.0,True,True
+Phyllanthus hyssopifolioides,Phyllanthus hyssopifolioides,False,Vol V,7,0-400,0-400,0.7142857142857143,0.7142857142857143,1.0,380.0,35.0,1331.6999999999991,True,True
+Pithecellobium johansenii,Pithecellobium johansenii,False,Vol V,12,50-100,50-100,0.4166666666666667,0.4166666666666667,1.0,20.0,14.0,77.0,False,True
+Potalia turbinata,Potalia turbinata,False,Vol V,37,0-700,0-700,0.972972972972973,0.972972972972973,1.0,66.0,15.4,546.7999999999998,True,True
+Quercus cortesii,Quercus cortesii,False,Vol V,37,700-1700,700-1700,0.7567567567567568,0.7567567567567568,0.8918918918918919,1369.0,850.0,2183.599999999998,True,True
+Rhynchosia precatoria,Rhynchosia precatoria,False,Vol V,1,0-300,0-300,1.0,1.0,,17.0,17.0,17.0,True,True
+Ryania speciosa,Ryania speciosa,False,Vol V,76,0-400,0-400,1.0,1.0,1.0,67.5,22.25,229.0,True,True
+Schultesia guianensis,Schultesia guianensis,False,Vol V,13,0-600,0-900,0.9230769230769231,1.0,0.8333333333333334,110.0,12.0,556.7999999999994,True,True
+Senegalia multipinnata,Senegalia paniculata,True,Vol V,21,0-900,0-900,0.8571428571428571,0.8571428571428571,1.0,639.0,48.0,1015.0,True,True
+Senna obtusifolia,Senna obtusifolia,False,Vol V,56,0-900,0-900,0.9285714285714286,0.9285714285714286,1.0,105.0,9.25,917.5,True,True

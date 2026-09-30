@@ -1,0 +1,26 @@
+# CR-FloraLM — curated runtime dependencies.
+# (The parent project's requirements.txt is a full `pip freeze`; this is the
+#  subset CR-FloraLM actually imports.)
+
+# --- ingestion ---------------------------------------------------------------
+pymupdf>=1.24          # PDF text and layout-block extraction (imports as `fitz`)
+
+# --- retrieval ---------------------------------------------------------------
+pinecone>=5.0          # serverless vector index + hosted multilingual-e5-large
+requests>=2.31         # OpenRouter calls (intent parser, composer, evaluation)
+python-dotenv>=1.0     # loads PINECONE_API_KEY / OPENROUTER_API_KEY from .env
+
+# --- geospatial --------------------------------------------------------------
+geopandas>=0.14        # botanical-region and protected-area polygons
+shapely>=2.0           # geometry operations
+rasterio>=1.3          # DEM sampling
+rapidfuzz>=3.0         # gazetteer fuzzy matching
+pygbif>=0.6            # GBIF occurrence and taxonomy API
+
+# --- analysis and rendering ---------------------------------------------------
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7        # map rendering and result figures
+
+# --- evaluation ---------------------------------------------------------------
+bert-score>=0.3.13     # eval/bertscore.py only

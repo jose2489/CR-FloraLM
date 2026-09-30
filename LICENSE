@@ -1,0 +1,45 @@
+MIT License
+
+Copyright (c) 2026 José A. Araya
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---------------------------------------------------------------------------
+NOTE ON SCOPE
+
+The MIT terms above cover the SOFTWARE in this repository: the source code
+under mpcr_rag/ and utils/, and the accompanying documentation.
+
+They do not purport to license third-party material, which this repository
+does not redistribute:
+
+  * The Manual de Plantas de Costa Rica, published by Missouri Botanical
+    Garden Press, is copyrighted by its publisher. No verbatim text from the
+    Manual is included here.
+  * Geospatial base layers (botanical-region polygons, protected areas, and
+    the digital elevation model) remain under the terms of their respective
+    sources, cited in the accompanying paper.
+  * GBIF occurrence records are governed by the terms of the contributing
+    institutions and by the GBIF data-use agreement.
+
+The catalog in data/ contains factual attributes extracted from the Manual
+(elevation bounds, slope, botanical regions, forest types, growth form,
+phenology, endemism) together with the volume and page at which each entry
+appears, so that any value can be traced to its source. It contains no
+verbatim prose from the Manual.
