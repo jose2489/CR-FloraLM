@@ -1,35 +1,22 @@
-# MPCR-RAG
+# mpcr_rag
 
-Geospatial RAG over the *Manual de Plantas de Costa Rica*. A subproject of
-**CR-BioLM** — see [PLAN.md](PLAN.md) for scope, architecture, and milestones.
+The CR-FloraLM pipeline package. See the [repository README](../README.md) for what the
+system does, how to reproduce the paper's results, and which data are required.
 
-It segments OCR'd Manual PDFs into per-species **fichas**, extracts structured
-geospatial fields (reusing CR-BioLM's `utils/distribution_map/` pipeline), indexes
-them in **Pinecone**, and answers geospatial questions with a **map + grounded text**
-answer — e.g. *"arbustos que crecen entre 150 y 300 m"*.
-
-## Setup
-
-```bash
-pip install -r requirements.txt
-# add to ../.env:  PINECONE_API_KEY=...
-```
-
-## Pipeline
+| Module | Role |
+| --- | --- |
+| `ingest/` | Segments Manual PDFs into per-species entries; extracts structured geospatial fields |
+| `query/` | Intent parsing, retrieval, grounded answer composition, map rendering |
+| `store/` | SQLite hydration store and Pinecone index client |
+| `eval/` | Every evaluation reported in the paper, with committed results |
 
 ```
-ingest/ficha_segmenter.py   PDF            → RawFicha   (layout-block segmentation)
-ingest/field_extractor.py   RawFicha       → Ficha      (geo_parser + regex)
-ingest/llm_enrich.py        Ficha          → +enrichment (cached LLM pass)
-ingest/build_index.py       Ficha          → Pinecone + SQLite
-query/retriever.py          name | NL Q    → Ficha(s)
-query/answer.py             NL question    → map + grounded text
+ingest/ficha_segmenter.py   PDF          -> RawFicha   (layout-block segmentation)
+ingest/field_extractor.py   RawFicha     -> Ficha      (deterministic geo-parser)
+ingest/build_catalog.py     Ficha        -> SQLite + Pinecone
+query/retriever.py          name | NL Q  -> Ficha(s)
+query/answer.py             NL question  -> grounded text + map
 ```
 
-## Run the segmentation spike (Milestone 1)
-
-```bash
-python -m mpcr_rag.ingest.ficha_segmenter   # segments the first PDF in config.CORPUS
-```
-
-Corpus is a manifest in [config.py](config.py) — start with one PDF, append to expand.
+The deterministic geo-parser, gazetteer and map renderer that these build on live in
+[`utils/distribution_map/`](../utils/distribution_map/).
